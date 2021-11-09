@@ -2,7 +2,7 @@
 - 📫 Reach me: 
 - [linkedin.com/in/mario-herrera-zamora/](https://www.linkedin.com/in/mario-herrera-zamora/)
 - [medium.com/@marioghz](https://www.medium.com/@marioghz/)
-- [marioghz.hashnode.dev/](https://www.marioghz.hashnode.dev/)
+- [marioghz.hashnode.dev/](https://marioghz.hashnode.dev/)
 
 ## Hi👋, 
 I'm Mario Herrera, I have 9 years of experience in data engineering, data analysis and data architecture. Most of my experience has been focused on financial analysis as my niche and I am a Master Data & Analytics grad. I have worked in multiples companies where I help the organization with valuable information using customer data, so they can make better decisions.
