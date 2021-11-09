@@ -1,16 +1,13 @@
-### Hi there 👋
+# Mario Herrera
+- 📫 Reach me: 
+- [linkedin.com/in/mario-herrera-zamora/](https://www.linkedin.com/in/mario-herrera-zamora/)
+- [medium.com/@marioghz](medium.com/@marioghz/)
+- [marioghz.hashnode.dev/](marioghz.hashnode.dev/)
 
-<!--
-**marioghz/marioghz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi👋, 
+I'm Mario Herrera, I have 9 years of experience in data engineering, data analysis and data architecture. Most of my experience has been focused on financial analysis as my niche and I am a Master Data & Analytics grad. I have worked in multiples companies where I help the organization with valuable information using customer data, so they can make better decisions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data processing, analysis, exploration, cleaning and quality. 
+- 🌱 I’m currently growing my knowledge on Data Structures and Algorithms on Python, Spark, Kafka and SQL.
+- 💬 Hobbies : Audiobooks | TV Series | Gym & Running | Research | Family | Rock music | Travel
+- ⚡ Languages: SQL, Python, PySpark, Java, R
